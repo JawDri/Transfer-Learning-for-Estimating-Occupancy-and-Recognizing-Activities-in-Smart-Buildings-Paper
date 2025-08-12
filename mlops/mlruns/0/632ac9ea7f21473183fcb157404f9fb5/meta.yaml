@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dridi/downloads/foldertest/Transfer-Learning-for-Estimating-Occupancy-and-Recognizing-Activities-in-Smart-Buildings-Paper/mlops/mlruns/0/632ac9ea7f21473183fcb157404f9fb5/artifacts
+end_time: 1755031052049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 632ac9ea7f21473183fcb157404f9fb5
+run_name: magnificent-bug-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755031051955
+status: 3
+tags: []
+user_id: dridi

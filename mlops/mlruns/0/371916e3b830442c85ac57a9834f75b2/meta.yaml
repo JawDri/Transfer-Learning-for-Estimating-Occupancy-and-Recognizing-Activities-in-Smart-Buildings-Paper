@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dridi/downloads/foldertest/Transfer-Learning-for-Estimating-Occupancy-and-Recognizing-Activities-in-Smart-Buildings-Paper/mlops/mlruns/0/371916e3b830442c85ac57a9834f75b2/artifacts
+end_time: 1755030800987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 371916e3b830442c85ac57a9834f75b2
+run_name: lyrical-ape-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755030800853
+status: 3
+tags: []
+user_id: dridi

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dridi/downloads/foldertest/Transfer-Learning-for-Estimating-Occupancy-and-Recognizing-Activities-in-Smart-Buildings-Paper/mlops/mlruns/0/1aff14bbe9dc43588136e72956944fe1/artifacts
+end_time: 1755031371888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1aff14bbe9dc43588136e72956944fe1
+run_name: dazzling-goat-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755031371730
+status: 3
+tags: []
+user_id: dridi

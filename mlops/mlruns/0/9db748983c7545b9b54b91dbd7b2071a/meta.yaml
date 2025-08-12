@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/dridi/downloads/foldertest/Transfer-Learning-for-Estimating-Occupancy-and-Recognizing-Activities-in-Smart-Buildings-Paper/mlops/mlruns/0/9db748983c7545b9b54b91dbd7b2071a/artifacts
+end_time: 1755031047325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9db748983c7545b9b54b91dbd7b2071a
+run_name: youthful-gnat-816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755031047233
+status: 3
+tags: []
+user_id: dridi
